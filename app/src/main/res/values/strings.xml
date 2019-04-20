@@ -1,0 +1,10 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">6946532</integer>
+    <string name="app_name">VkTestApp</string>
+    <string name="title_home">VK</string>
+    <string name="title_dashboard">inst</string>
+    <string name="title_notifications">twit</string>
+    <string name="title_button_connect">VkConnect</string>
+    <string name="connect_To_Vk">VKConnect</string>
+    <string name="webView">WebView</string>
+</resources>
